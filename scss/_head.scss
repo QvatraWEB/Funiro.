@@ -1,5 +1,5 @@
 $main_color: #8c0368;
-body{
+body {
   color: #242625;
 }
 .head {
@@ -8,7 +8,7 @@ body{
   background: #fff;
   z-index: 1000;
   &__logo {
-    font-size: 40px;
+    font-size: 60px;
     a {
       color: $main_color;
     }
