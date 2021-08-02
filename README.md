@@ -14,4 +14,6 @@ JS
 
 5: the picture follows the pointer
 
+6: galelery on js
+
 github-pages: https://qvatraweb.github.io/Funiro./Funiro./index.html
