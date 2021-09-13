@@ -103,15 +103,14 @@
 }
 
 .swiper-pagination-bullet-active {
+  background: #d8d8d8;
+
   &::after {
-    background-color: $orangeColor;
+    background: $orangeColor;
   }
   &::before {
     transform: scale(1);
   }
-}
-
-.ibg {
 }
 
 //<ГОТОВЫЕ КЛАССЫ>====================================================================================================

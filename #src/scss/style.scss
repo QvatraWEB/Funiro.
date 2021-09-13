@@ -591,7 +591,7 @@ body {
     overflow: hidden;
     @include adaptiv-value("min-height", 585, 400, 1);
     &.swiper-slide-active {
-      .slider-rooms__image {
+      img {
         height: 100%;
       }
     }
@@ -602,7 +602,7 @@ body {
 
   &__image {
     transition: height 0.8s ease 0s;
-    height: 100%;
+
     @media (min-width: $md3+px) {
       height: 83%;
     }
@@ -880,3 +880,5 @@ body {
     }
   }
 }
+
+

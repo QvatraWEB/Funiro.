@@ -751,8 +751,12 @@ textarea.input {
           transform: scale(0);
 }
 
+.swiper-pagination-bullet-active {
+  background: #d8d8d8;
+}
+
 .swiper-pagination-bullet-active::after {
-  background-color: #e89f71;
+  background: #e89f71;
 }
 
 .swiper-pagination-bullet-active::before {
@@ -3260,7 +3264,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   min-height: 585px;
 }
 
-.slider-rooms__slide.swiper-slide-active .slider-rooms__image {
+.slider-rooms__slide.swiper-slide-active img {
   height: 100%;
 }
 
@@ -3268,7 +3272,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -webkit-transition: height 0.8s ease 0s;
   -o-transition: height 0.8s ease 0s;
   transition: height 0.8s ease 0s;
-  height: 100%;
 }
 
 .slider-rooms__content {

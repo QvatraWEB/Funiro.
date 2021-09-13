@@ -28,6 +28,7 @@ if (sliders) {
     if (slider.classList.contains('_gallery')) {
       //slider.data('lightGallery').destroy(true);
     }
+    
   }
   sliders_bild_callback();
 }
