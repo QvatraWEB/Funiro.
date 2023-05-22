@@ -16,4 +16,4 @@ JS
 
 6: galelery on js
 
-github-pages: https://matveevyura.github.io/Funiro./Funiro./index.html
+github-pages: https://yurimatvieiev.github.io/Funiro./Funiro./index.html
